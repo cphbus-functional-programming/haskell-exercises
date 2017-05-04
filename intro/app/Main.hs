@@ -1,6 +1,4 @@
 module Main where
 
-import Lib
-
-main :: IO ()
-main = putStrLn "Hello"
+--import Lib
+main = putStrLn "hi"
